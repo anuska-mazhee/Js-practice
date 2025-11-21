@@ -19,3 +19,6 @@ else if ((unit == "3") && (convert == "1")){
 else if ((unit == "3") && (convert == "2")){
     console.log(`${value}k =`,value*1.8-459.67,`f`);
 }
+else{
+    console.log("You need to convert to other units");
+}
