@@ -9,3 +9,12 @@ for(i=1;i<=5;i++)
     console.log(x);
     console.log("\n");
 }
+
+// Ouput
+*/
+anu
+anu anu
+anu anu anu
+anu anu anu anu
+anu anu anu anu anu
+*/
