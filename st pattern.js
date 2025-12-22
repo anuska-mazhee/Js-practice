@@ -9,3 +9,12 @@ for(k=1;k<=5;k++)
      console.log(x);
      console.log("\n")
 }
+
+// Ouput
+*/
+a a a
+a a a
+a a a
+a a a
+a a a
+*/
