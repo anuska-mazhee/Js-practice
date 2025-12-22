@@ -13,3 +13,13 @@ for(i=1;i<=5;i++)
     console.log(x,y);
     console.log("\n");
 }
+
+// Output
+/*
+    *
+   **  
+  ***
+ ****
+*****
+
+*/
